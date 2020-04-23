@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/macnojit/tolua/tolua-Prefix.pch \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/luasocket.c \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/macnojit/lua/lua.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/macnojit/lua/luaconf.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/macnojit/lua/lauxlib.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/compat.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/luasocket.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/auxiliar.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/except.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/timeout.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/buffer.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/io.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/inet.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/socket.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/usocket.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/tcp.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/udp.h \
+  /Users/simonne/projects/com.my.projects/tolua_runtime/luasocket/select.h
