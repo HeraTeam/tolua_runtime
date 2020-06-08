@@ -1,7 +1,14 @@
+###
+ # @Author: simonne.xu
+ # @Date: 2020-04-24 13:28:47
+ # @Description: 
+ # @LastEditBy: simonne.xu
+ # @LastEditTime: 2020-06-08 16:36:20
+### 
 cd luajit-2.1/src
 
 # Android/ARM, armeabi-v7a (ARMv7 VFP), Android 4.0+ (ICS)
-NDK=D:/android-ndk-r10e
+NDK=/c/Users/min.xu/Projects/frameworks/android-ndk-r10e
 NDKABI=19
 NDKVER=$NDK/toolchains/arm-linux-androideabi-4.9
 NDKP=$NDKVER/prebuilt/windows-x86_64/bin/arm-linux-androideabi-

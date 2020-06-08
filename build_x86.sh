@@ -1,7 +1,14 @@
+###
+ # @Author: simonne.xu
+ # @Date: 2020-04-24 13:28:47
+ # @Description: 
+ # @LastEditBy: simonne.xu
+ # @LastEditTime: 2020-06-08 16:38:58
+### 
 cd luajit-2.1/src
 
 # Android/x86, x86 (i686 SSE3), Android 4.0+ (ICS)
-NDK=D:/android-ndk-r10e
+NDK=/c/Users/min.xu/Projects/frameworks/android-ndk-r10e
 NDKABI=19
 NDKVER=$NDK/toolchains/x86-4.9
 NDKP=$NDKVER/prebuilt/windows-x86_64/bin/i686-linux-android-
